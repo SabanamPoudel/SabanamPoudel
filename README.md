@@ -1,5 +1,74 @@
+<h1 align="center">Hi 👋, I'm Sabanam Poudel</h1>
+<h3 align="center">Junior Web Developer | WordPress Specialist | Frontend Developer</h3>
+
+<p align="center">
+I build responsive websites and real-world web applications using modern frontend technologies and WordPress.
+</p>
+
+<p align="center">
+🔗 Portfolio: https://sabanampoudel.netlify.app/
+</p>
+
+---
+
 # 💫 About Me:
-🔭 I’m currently working on improving my frontend and WordPress development skills through real-world projects<br>🤝 I’m looking to collaborate on web development projects (HTML, CSS, JavaScript, WordPress)<br>🛠️ I’m looking for help with advanced backend development and scalable systems<br>🌱 I’m currently learning JavaScript frameworks, Firebase, and full-stack development<br>💬 Ask me about responsive design, WordPress customization, and frontend development<br>⚡ Fun fact: I’ve built live business websites and demo web applications for learning purposes
+🔭 I build real-world websites and frontend applications using WordPress and JavaScript  
+🤝 Open to collaborating on web development and frontend projects  
+🌱 Currently improving my skills in JavaScript frameworks and full-stack development  
+💼 Experience working on live business websites and production platforms  
+💬 Ask me about WordPress, responsive design, and frontend development  
+⚡ Fun fact: I’ve worked on real business websites and government-related frontend systems  
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 Business Website (WordPress)
+- Developed a fully responsive business website for a real client  
+- Customized layouts, navigation, and content structure  
+- Implemented contact functionality and ensured mobile compatibility  
+- Tech: WordPress, HTML, CSS, JavaScript  
+
+### 🔹 IRD Taxpayer Portal (Frontend)
+- Built a responsive frontend for a government-related system  
+- Improved UI clarity and user experience  
+- Tech: HTML, CSS, JavaScript  
+
+### 🔹 Secure Authentication System
+- Built a secure authentication system using Firebase  
+- Implemented OTP-based password recovery and validation  
+- Added password strength checks and login protection  
+- Tech: JavaScript, Firebase  
+
+### 🔹 MealMate (Android Application)
+- Developed an Android app with authentication and real-time database  
+- Designed clean UI using Material Design principles  
+- Tech: Java, Firebase  
+
+---
+
+# 💼 Experience
+
+**Junior Web Developer — Khata Business Academy**  
+Sept 2025 – March 2026  
+- Worked on real-world business platforms  
+- Improved frontend usability and layout consistency  
+- Collaborated using Git in a hybrid team environment  
+
+**Web Developer Intern — Khata Business Academy**  
+June 2025 – Aug 2025  
+- Assisted in WordPress development and frontend tasks  
+- Gained hands-on experience with production-level projects  
+
+---
+
+# 🎓 Education
+
+BSc (Hons) Computer System Engineering  
+University of Sunderland (Completed)
+
+---
+
 
 
 ## 🌐 Socials:
