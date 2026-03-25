@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabanam Poudel</h1>
-<h3 align="center">Junior Web Developer | WordPress Specialist | Frontend Developer</h3>
+<h3 align="center"> Web Developer | WordPress Specialist | Frontend Developer</h3>
 
 <p align="center">
 I build responsive websites and real-world web applications using modern frontend technologies and WordPress.
